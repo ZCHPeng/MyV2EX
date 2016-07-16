@@ -1,0 +1,3 @@
+rootProject.name = 'MyV2EX'
+
+include ':app'
